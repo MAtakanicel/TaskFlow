@@ -58,3 +58,11 @@ Bu proje, iOS geliştirme bootcamp programının bitirme ödevi olarak geliştir
 - Push notifications henüz implement edilmedi
 - Çoklu dil desteği yok (sadece Türkçe)
 
+
+## Dökümanlar
+
+- [Mimari](Documents/Mimari.md)
+- [Teknolojiler](Documents/Teknolojiler.md)
+- [Özellikler](Documents/Özellikler.md)
+- [Test Senaryoları](Documents/Test.md)
+- [Öğrenme Çıktıları](Documents/Öğrenme.md)
